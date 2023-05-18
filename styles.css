@@ -1,0 +1,65 @@
+body {
+    width: 330px;
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    font-size: 1em; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    background-image: linear-gradient(#0f0f0f 25%, #341d15);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 3.125em;
+    padding-top: 25px;
+}
+
+h2 {
+    width: 200px;
+    padding: 5px;
+    border: white solid 1px;
+    border-radius: 30px;
+    margin: 10px auto 20px;
+    text-align: center;
+    color: #f29245;
+    background-color: black;
+}
+
+p {
+    width: 280px;
+    margin: 0 25px;
+    color: lightgrey;
+    text-align: center;
+    font-size: 12px;
+}
+
+.shop, .start {
+    width: 230px;
+    padding: 8px;
+    margin: 25px auto;
+    border: solid 2px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+
+.shop {
+       border: #2a2829;
+       background-color: #2a2829;
+}
+
+.start {
+         border: #ff762d;
+         background-color: #ff762d;
+         /* margin-bottom: 50px; */
+}
+
+.bottom {
+    margin: 50px 25px;
+}
